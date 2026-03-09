@@ -44,9 +44,9 @@ The following analyses were conducted:
 
 ## Project Structure
 
-notebook/ → Jupyter notebook containing the full analysis
-data/ → dataset reference
-images/ → visualizations
+- notebook/ → Jupyter notebook containing the full analysis
+- data/ → dataset reference
+- images/ → visualizations
 
 
 
