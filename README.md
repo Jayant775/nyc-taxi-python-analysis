@@ -63,7 +63,3 @@ The following analyses were conducted:
 - notebook/ → Jupyter notebook containing the full analysis
 - data/ → dataset reference
 - images/ → visualizations
-
-## Screenshots 
-
-
