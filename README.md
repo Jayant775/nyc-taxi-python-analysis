@@ -1,4 +1,3 @@
-# nyc-taxi-python-analysis
 
 # NYC Taxi Trip Data Analysis (Python)
 
@@ -12,6 +11,23 @@ The goal is to understand travel patterns, trip duration behavior, and taxi usag
 The dataset contains over **1.4 million taxi trips** including pickup and dropoff times, passenger counts, and trip duration.
 
 Dataset Source: Kaggle - NYC Taxi Trip Duration
+
+## Notebook Index
+NYC Taxi Trip Duration Analysis
+
+1. Import Libraries
+2. Load Dataset
+3. Explore Dataset
+4. Feature Engineering
+5. Data Visualization
+   - Trips by Hour
+   - Trips by Day
+   - Trip Duration Distribution
+   - Passenger Count Analysis
+   - Trip Duration vs Passenger Count
+6. Handling Outliers
+7. Key Insights
+8. Conclusion
 
 ## Tools Used
 
@@ -48,5 +64,6 @@ The following analyses were conducted:
 - data/ → dataset reference
 - images/ → visualizations
 
+## Screenshots 
 
 
